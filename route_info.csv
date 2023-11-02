@@ -1,0 +1,126 @@
+﻿route_id_short,route_sibling,route_code,route_name,terminal_1,route_poi,terminal_2,route_via,direction_0,direction_1,Notes
+2,,2,,Westwood,,USC,Sunset Bl,Eastbound,Westbound,
+4,,4,,Santa Monica,,Downtown LA,Santa Monica Bl,Eastbound,Westbound,
+10,48,10,,West Hollywood,Downtown LA,Avalon Station,"Temple St,Melrose St",Eastbound,Westbound,
+10,10,48,,West Hollywood,Downtown LA,Avalon Station,"Main St,South San Pedro St",Southbound,Northbound,
+14,37,14,,Cedars Sinai Medical Center,Downtown LA,Washington/Fairfax,Beverly Bl,Eastbound,Westbound,
+14,14,37,,Cedars Sinai Medical Center,Downtown LA,Washington/Fairfax,Adams Bl,Westbound,Eastbound,
+16,,16,,West Hollywood,,Downtown LA,West 3rd St,Eastbound,Westbound,
+18,,18,,Wilshire/Western Station,,Montebello Metrolink Station,"6th St,Whittier Bl",Eastbound,Westbound,
+20,,20,,Westwood/Santa Monica,,Downtown LA,Wilshire Bl,Eastbound,Westbound,
+28,,28,,Century City,,Downtown LA,Olympic Bl,Eastbound,Westbound,
+30,,30,,Pico Rimpau Transit Center,Downtown LA,Indiana Station,"Pico Bl,1st St",Eastbound,Westbound,
+33,,33,,Santa Monica,,Downtown LA,Venice Bl,Eastbound,Westbound,
+35,38,35,,Downtown LA,,Washington/Fairfax Transit Hub,Washington Bl,Westbound,Eastbound,
+35,35,38,,Washington/Fairfax Transit Hub,,Downtown LA,Jefferson Bl,Eastbound,Westbound,
+40,,40,,South Bay/Redondo Beach Transit Center,,Downtown LA,"MLK Bl,Hawthorne Bl",Northbound,Southbound,
+45,,45,,Harbor Freeway Station,Downtown LA,Lincoln Heights,Broadway,Northbound,Southbound,
+51,,51,,CSU Dominguez Hills,Downtown LA,Westlake/MacArthur Park Station,"7th St,Avalon Bl",Northbound,Southbound,
+53,,53,,CSU Dominguez Hills,Willowbrook/Rosa Parks Station,Downtown LA,Central Av,Northbound,Southbound,
+55,,55,,Willowbrook/Rosa Parks Station,,Downtown LA,Compton Av,Northbound,Southbound,
+60,,60,,Artesia Station,,Downtown LA,Long Beach Bl,Northbound,Southbound,
+62,,62,,Hawaiian Gardens,,Downtown LA,Telegraph Rd,Northbound,Southbound,
+66,,66,,Wilshire Center,Downtown LA,Montebello Metrolink Station,"8th St,Olympic Bl",Eastbound,Westbound,
+70,,70,,Downtown LA,,El Monte,"Cesar Chavez Av,AtlanticBl,Garvey Av",Eastbound,Westbound,
+76,,76,,Downtown LA,,El Monte,Valley Bl,Eastbound,Westbound,
+78,,78,,Downtown LA,,Arcadia,"Las Tunas Av,Huntington Dr",Eastbound,Westbound,
+81,,81,,Eagle Rock,Downtown LA,Harbor Freeway Station,Figueroa St,Northbound,Southbound,
+90,,90,,Downtown LA,Sunland,North Hollywood,"Glendale Av,Foothill Bl,Vineland Av",Northbound,Southbound,"LA Civic Center = Downtown LA?, include Glendale?"
+92,,92,,Downtown LA,,Sylmar Station,"Glendale Bl,Glenoaks Bl",Northbound,Southbound,include Burbank?
+94,,94,,Downtown LA,"Glendale,Burbank",North Hollywood,"San Fernando Rd,Magnolia Bl",Northbound,Southbound,
+96,,96,,Chinatown,,Burbank Station,Griffith Park Dr,Northbound,Southbound,Burbank Metrolink Station?
+102,,102,,LAX City Bus Center,,South Gate,"La Tijera Bl,Exposition Bl",Eastbound,Westbound,
+105,,105,,Vernon,,West Hollywood,"La Cienega Bl,Vernon Av",Northbound,Southbound,
+106,,106,,Monterey Park,"Cal State LA,LA Union Station,Little Tokyo",Montebello,"Garvey Av,1st Av",Southbound,Northbound,
+108,,108,,Marina Del Rey,,Pico Rivera,Slauson Av,Eastbound,Westbound,
+110,,110,,Playa Vista,,Bell Gardens,"Jefferson Bl,Gage Av",Eastbound,Westbound,
+111,,111,,LAX City Bus Center,,Norwalk Station,Florence Av,Eastbound,Westbound,
+115,,115,,Playa Del Rey,,Norwalk,"Manchester Av,Firestone Bl",Eastbound,Westbound,
+117,,117,,LAX City Bus Center,,Downey,"Century Bl,Imperial Hwy",Eastbound,Westbound,
+120,,120,,Aviation/LAX Station,,Whittwood Center,Imperial Hwy,Eastbound,Westbound,
+125,,125,,El Segundo,,Norwalk Station,Rosecrans Av,Eastbound,Westbound,
+127,,127,,Harbor Freeway Station,Compton Station,Downey,"Compton Bl,Broadway",Eastbound,Westbound,
+128,,128,,Compton Station,,Cerritos Towne Center,Alondra Bl,Eastbound,Westbound,
+134,,134,,Downtown Santa Monica Station,,Malibu,,Southbound,Northbound,
+150,,150,,Chatsworth,Canoga Park,Encino,"Topanga Canyon Bl,Ventura Bl",Eastbound,Westbound,"Encino, not Tarzana"
+152,,152,,West Hills Medical Center,,North Hollywood Station,Roscoe Bl,Eastbound,Westbound,
+154,,154,,Van Nuys,,Burbank Station,"Oxnard St,Burbank Bl",Eastbound,Westbound,"Van Nuys, not Sepulveda Bl"
+155,,155,,Burbank Station,,North Hollywood Station,"Riverside Dr,Olive St",Northbound,Southbound,
+158,,158,,Chatsworth Station,,Sherman Oaks,"Devonshire,Woodman",Eastbound,Westbound,Street types?
+161,,161,,Thousand Oaks,"Agoura Hills,Calabasas",Canoga Station,,Eastbound,Westbound,
+162,,162,,Woodland Hills,West Hills,North Hollywood,"Sherman Wy,Vineland Av",Eastbound,Westbound,
+164,,164,,West Hills,,Burbank,Victory Bl,Eastbound,Westbound,
+165,,165,,West Hills,,Burbank,Vanowen St,Eastbound,Westbound,
+166,,166,,Chatsworth,,Sun Valley,"Nordhoff St,Osborne St",Eastbound,Westbound,Chatsworth insteadd of Canoga Av?
+167,,167,,Chatsworth Station,,Studio City,"Plummer,Coldwater Canyon",Eastbound,Westbound,street types?
+169,,169,,Warner Center,,Burbank Airport,"Valley Circle,Saticoy St",Eastbound,Westbound,street types?
+177,,177,,Pasadena (Caltech),Del Mar Station,JPL,,Northbound,Southbound,
+179,,179,,Rose Hill Transit Center,,Arcadia,Huntington Dr,Eastbound,Westbound,
+180,,180,,Hollywood,Glendale,Pasadena,"Los Feliz Bl,Colorado Bl",Eastbound,Westbound,
+182,,182,,East Hollywood,,Rose Hill,"Fletcher Dr,York Bl",Eastbound,Westbound,Rose Hill not NorthEast LA
+202,,202,,Del Amo Station,Compton,Willowbrook,Willowbrook Av,Northbound,Southbound,
+204,,204,,Athens,,Hollywood,Vermont Av,Northbound,Southbound,
+205,,205,,San Pedro,,Willowbrook Station,"Wilmington Av,Vermont Av",Northbound,Southbound,
+206,,206,,Athens,,Hollywood,Normandie Av,Northbound,Southbound,
+207,,207,,Crenshaw Station,,Hollywood,Western Av,Northbound,Southbound,Crenshaw Station (C Line) not Athens
+209,,209,,Crenshaw C Line (Green) Station,,Expo/Crenshaw Station,"Van Ness Av,Arlington Av",Northbound,Southbound,
+210,,210,,South Bay/Redondo Beach Transit Center,,Hollywood/Vine Station,Crenshaw Bl,Northbound,Southbound,South Bay/Redondo Beach Transit Center
+211,215,211,,Redondo Beach Transit Center,,Downtown Inglewood,Prairie Av,Northbound,Southbound,
+211,211,215,,Redondo Beach C Line Station,,Downtown Inglewood,Inglewood Av,,,"No 215 route_code or stop_headsign in GTFS, but it is in routes table and timetable."
+212,,212,,Hawthorne/Lennox Station,,Hollywood/Vine Station,La Brea Av,Northbound,Southbound,
+217,,217,,La Cienega Station,,Vermont/Sunset Station,"Hollywood Bl,Fairfax Av",Northbound,Southbound,
+218,,218,,Cedars Sinai Medical Center,,Studio City,"Laurel Canyon Bl,Fairfax Bl",Northbound,Southbound,
+222,,222,,Hollywood,Hollywood Burbank Airport,Sun Valley,"Hollywood Wy,Riverside Dr",Northbound,Southbound,
+224,,224,,Universal City Station,,Sylmar Station,"San Fernando Rd,Lankershim Bl",Northbound,Southbound,plus Hollyywood Owl Service
+230,,230,,Studio City,,Sylmar Metrolink Station,Laurel Canyon Bl,Northbound,Southbound,
+232,,232,,Long Beach,,LAX City Bus Center,"Sepulveda Bl,Pacific Coast Hwy",Northbound,Southbound,
+233,,233,,Sherman Oaks,,Lake View Terrace,Van Nuys Bl,Northbound,Southbound,plus Westside Owl Service
+234,,234,,Sherman Oaks,,Sylmar,Sepulveda Bl,Northbound,Southbound,
+,,235,,Encino,,Sylmar Metrolink Station,"Balboa Bl,Glenoaks Bl",Northbound,Southbound,235 not found in GTFS routes.txt
+236,,236,,Encino,,Sylmar Metrolink Station,"Balboa Bl,Rinaldi St",Northbound,Southbound,"Timetables say 235/236. 235 is not in GTFS routes table, but it is in route_code and stop_headsign values"
+237,,237,,Encino,,North Hollywood,"White Oak Av,Rinaldi St,Woodley Av",Eastbound,Westbound,
+240,,240,,Northridge,,Universal/Studio City Station,"Reseda Bl,Ventura Bl",Eastbound,Westbound,
+242,243,242,,Tarzana,,Northridge,Tampa Av,Northbound,Southbound,Very confused which one goes where when trying to match the timetable with the stop_headsign in the GTFS
+242,242,243,,Woodland Hills,,Chatsworth,Winnetka Av,Northbound,Southbound,Very confused which one goes where when trying to match the timetable with the stop_headsign in the GTFS
+244,,244,,Woodland Hills,,Chatsworth Station,De Soto Av,Northbound,Southbound,
+246,,246,,San Pedro,,Harbor Gateway Transit Center ,Avalon Bl,Northbound,Southbound,
+251,,251,,Long Beach Blvd C Line (Green) Station,,Eagle Rock,Soto St,Northbound,Southbound,
+256,,256,,CalState LA Transit Center,,Sierra Madre Villa Station,"Eastern Av,Washington Bl",Northbound,Southbound,
+258,,258,,Paramount,,Highland Park,"Fremont Av,Eastern Av",Northbound,Southbound,Highland Park/South Pasadena separate?
+260,,260,,Artesia Station,,Pasadena,"Fair Oaks Av,Atlantic Bl",Northbound,Southbound,
+265,,265,,Lakewood Center Mall,,Pico Rivera,Paramount Bl,Northbound,Southbound,
+266,,266,,Lakewood Center Mall,,Sierra Madre Villa Station,Rosemead Bl,Northbound,Southbound,
+267,,267,,El Monte Station,,Pasadena,"Del Mar Bl,Temple City Bl",Northbound,Southbound,
+268,,268,,El Monte Station,,Sierra Madre Villa Station,Baldwin Av,Northbound,Southbound,
+287,,287,,The Shops at Montebello,El Monte Station,Arcadia Station,Santa Anita Av,Northbound,Southbound,
+294,,294,,Burbank Station,,Sylmar Metrolink Station,San Fernando Rd,Northbound,Southbound,
+344,,344,,Palos Verdes,,Harbor Gateway Transit Center ,Hawthorne Bl,Northbound,Southbound,
+460,,460,,Downtown LA,"Norwalk Station,Knott's Berry Farm",Disneyland,"I-110 Freeway,I-105 Freeway",Southbound,Northbound,
+487,489,487,,Downtown LA,,Sierra Madre Villa Station,,Eastbound,Westbound,
+487,487,489,,Downtown LA,,Temple City,,Eastbound,Westbound,
+501,,501,,North Hollywood Station,,Pasadena,,Eastbound,Westbound,Pasadena Express??
+550,,550,,Harbor Gateway Transit Center,,Exposition Park,Harbor Transitway,Northbound,Southbound,
+577,,577,,Long Beach VA Medical Center,,El Monte Station,I-605 Freeway,Northbound,Southbound,
+601,,601,Warner Center Shuttle,Kaiser/Warner Center Corporate Park,Warner Center,Canoga Station,,Northbound,Southbound,
+602,,602,,Pacific Palisades,,Westwood,Sunset Bl,Eastbound,Westbound,
+603,,603,,Grand/LATTC Station,,Glendale Galleria,"San Fernando Rd,Rampart St,Hoover St",Northbound,Southbound,
+605,,605,LAC+USC Medical Center Shuttle,Boyle Heights,,LAC+USC Medical Center,,Northbound,Southbound,Updated LAC+USC Medical Center Name
+611,,611,Huntington Park Shuttle,,,,,Clockwise,CounterClockwise,"loop
+0 - Huntington Park - Vernon - Cudahy
+1 - Vernon - Huntington Park - Cudahy"
+617,,617,Beverwil - Burton - Robertson Shuttle,Pico/Robertson,"Beverly Hills,West Hollywood",Culver City Station,"Beverwil Dr,Burton Wy,Robertson Bl",Eastbound,Westbound,
+660,,660,Del Mar Station - Altadena Shuttle,Del Mar Station,,Altadena,Fair Oaks Av,Northbound,Southbound,Not in WP?
+662,,662,Altadena - Pasadena Shuttle,,,,,CounterClockwise,Clockwise,"loop
+0 - NB Lake, SB Lincoln
+1 - NB Lincoln, SB Lake"
+665,,665,CalState LA - City Terrace Shuttle,Cal State LA,,Indiana Station,,Northbound,Southbound,
+686,,686,,Pasadena,,Altadena,Allen Av,Northbound,Southbound,
+690,,690,,Sylmar,,Sunland,,Eastbound,Westbound,
+720,,720,,Santa Monica,,Downtown LA,Wilshire Bl,Eastbound,Westbound,
+754,,754,,Athens,,Hollywood,Vermont Av,Northbound,Southbound,
+761,,761,,Expo/Sepulveda Station,,Sylmar Station,"San Fernando Bl,Van Nuys Bl,Sepulveda Bl",Northbound,Southbound,
+854,,854,L Line Shuttle,Union Station,Little Tokyo,Pico/Aliso Station,,Eastbound,Westbound,
+857,,857,C & K Line Link Shuttle,Aviation/LAX Station,,Westchester/Veterans Station,,Northbound,Southbound,
+901,,901,G Line,Chatsworth Station,,North Hollywood Station,,Southbound,Northbound,
+910,950,910,J Line (910),Harbor Gateway Transit Center ,Downtown LA,El Monte Station,,Northbound,Southbound,
+910,910,950,J Line (950),San Pedro,Downtown LA,El Monte Station,,Northbound,Southbound,
