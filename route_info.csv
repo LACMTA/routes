@@ -1,7 +1,7 @@
 ﻿agency_id,route_id_short,route_code,shared_route_id,route_name,terminal_1,terminal_2,poi,arterials,direction_0,direction_1
 LACMTA,2,2,FALSE,,Westwood,USC,,Sunset Bl,Eastbound,Westbound
 LACMTA,4,4,FALSE,,Santa Monica,Downtown LA,,Santa Monica Bl,Eastbound,Westbound
-LACMTA,10,10,TRUE,,West Hollywood,Avalon Station,Downtown LA,"Temple St, Melrose St",Eastbound,Westbound
+LACMTA,10,10,TRUE,,West Hollywood,Avalon Station,Downtown LA,"Temple St, Melrose Av",Eastbound,Westbound
 LACMTA,10,48,TRUE,,West Hollywood,Avalon Station,Downtown LA,"Main St, South San Pedro St",Southbound,Northbound
 LACMTA,14,14,TRUE,,Cedars Sinai Medical Center,Washington/Fairfax,Downtown LA,Beverly Bl,Eastbound,Westbound
 LACMTA,14,37,TRUE,,Cedars Sinai Medical Center,Washington/Fairfax,Downtown LA,Adams Bl,Westbound,Eastbound
